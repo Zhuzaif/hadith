@@ -1,0 +1,281 @@
+{
+  "downloadDate": "2026-10-17T18:51:20.335Z",
+  "totalBooks": 6,
+  "languages": [
+    {
+      "code": "ara",
+      "name": "Arabic",
+      "native": "العربية"
+    },
+    {
+      "code": "urd",
+      "name": "Urdu",
+      "native": "اردو"
+    },
+    {
+      "code": "eng",
+      "name": "English",
+      "native": "English"
+    },
+    {
+      "code": "ben",
+      "name": "Bengali",
+      "native": "বাংলা"
+    },
+    {
+      "code": "tur",
+      "name": "Turkish",
+      "native": "Türkçe"
+    }
+  ],
+  "books": {
+    "bukhari": {
+      "name": "Sahih al-Bukhari",
+      "author": "Imam Bukhari",
+      "files": {
+        "ara": {
+          "file": "ara-bukhari.json",
+          "language": "Arabic",
+          "hadithCount": 7589,
+          "sizeBytes": 9409647,
+          "sizeFormatted": "8.97 MB"
+        },
+        "urd": {
+          "file": "urd-bukhari.json",
+          "language": "Urdu",
+          "hadithCount": 7589,
+          "sizeBytes": 9584861,
+          "sizeFormatted": "9.14 MB"
+        },
+        "eng": {
+          "file": "eng-bukhari.json",
+          "language": "English",
+          "hadithCount": 7589,
+          "sizeBytes": 4821289,
+          "sizeFormatted": "4.60 MB"
+        },
+        "ben": {
+          "file": "ben-bukhari.json",
+          "language": "Bengali",
+          "hadithCount": 7589,
+          "sizeBytes": 14712741,
+          "sizeFormatted": "14.03 MB"
+        },
+        "tur": {
+          "file": "tur-bukhari.json",
+          "language": "Turkish",
+          "hadithCount": 7589,
+          "sizeBytes": 10167937,
+          "sizeFormatted": "9.70 MB"
+        }
+      }
+    },
+    "muslim": {
+      "name": "Sahih Muslim",
+      "author": "Imam Muslim",
+      "files": {
+        "ara": {
+          "file": "ara-muslim.json",
+          "language": "Arabic",
+          "hadithCount": 7563,
+          "sizeBytes": 8329204,
+          "sizeFormatted": "7.94 MB"
+        },
+        "urd": {
+          "file": "urd-muslim.json",
+          "language": "Urdu",
+          "hadithCount": 7564,
+          "sizeBytes": 7301659,
+          "sizeFormatted": "6.96 MB"
+        },
+        "eng": {
+          "file": "eng-muslim.json",
+          "language": "English",
+          "hadithCount": 7563,
+          "sizeBytes": 3940216,
+          "sizeFormatted": "3.76 MB"
+        },
+        "ben": {
+          "file": "ben-muslim.json",
+          "language": "Bengali",
+          "hadithCount": 7563,
+          "sizeBytes": 10971438,
+          "sizeFormatted": "10.46 MB"
+        },
+        "tur": {
+          "file": "tur-muslim.json",
+          "language": "Turkish",
+          "hadithCount": 7563,
+          "sizeBytes": 6758633,
+          "sizeFormatted": "6.45 MB"
+        }
+      }
+    },
+    "abudawud": {
+      "name": "Sunan Abu Dawud",
+      "author": "Imam Abu Dawud",
+      "files": {
+        "ara": {
+          "file": "ara-abudawud.json",
+          "language": "Arabic",
+          "hadithCount": 5274,
+          "sizeBytes": 6623115,
+          "sizeFormatted": "6.32 MB"
+        },
+        "urd": {
+          "file": "urd-abudawud.json",
+          "language": "Urdu",
+          "hadithCount": 5274,
+          "sizeBytes": 5346674,
+          "sizeFormatted": "5.10 MB"
+        },
+        "eng": {
+          "file": "eng-abudawud.json",
+          "language": "English",
+          "hadithCount": 5274,
+          "sizeBytes": 3589001,
+          "sizeFormatted": "3.42 MB"
+        },
+        "ben": {
+          "file": "ben-abudawud.json",
+          "language": "Bengali",
+          "hadithCount": 5274,
+          "sizeBytes": 7633503,
+          "sizeFormatted": "7.28 MB"
+        },
+        "tur": {
+          "file": "tur-abudawud.json",
+          "language": "Turkish",
+          "hadithCount": 5274,
+          "sizeBytes": 4223164,
+          "sizeFormatted": "4.03 MB"
+        }
+      }
+    },
+    "tirmidhi": {
+      "name": "Jami` at-Tirmidhi",
+      "author": "Imam at-Tirmidhi",
+      "files": {
+        "ara": {
+          "file": "ara-tirmidhi.json",
+          "language": "Arabic",
+          "hadithCount": 3998,
+          "sizeBytes": 6583667,
+          "sizeFormatted": "6.28 MB"
+        },
+        "urd": {
+          "file": "urd-tirmidhi.json",
+          "language": "Urdu",
+          "hadithCount": 3998,
+          "sizeBytes": 5214642,
+          "sizeFormatted": "4.97 MB"
+        },
+        "eng": {
+          "file": "eng-tirmidhi.json",
+          "language": "English",
+          "hadithCount": 3998,
+          "sizeBytes": 2587658,
+          "sizeFormatted": "2.47 MB"
+        },
+        "ben": {
+          "file": "ben-tirmidhi.json",
+          "language": "Bengali",
+          "hadithCount": 3998,
+          "sizeBytes": 8199627,
+          "sizeFormatted": "7.82 MB"
+        },
+        "tur": {
+          "file": "tur-tirmidhi.json",
+          "language": "Turkish",
+          "hadithCount": 3998,
+          "sizeBytes": 3595253,
+          "sizeFormatted": "3.43 MB"
+        }
+      }
+    },
+    "nasai": {
+      "name": "Sunan an-Nasa`i",
+      "author": "Imam an-Nasa`i",
+      "files": {
+        "ara": {
+          "file": "ara-nasai.json",
+          "language": "Arabic",
+          "hadithCount": 5765,
+          "sizeBytes": 6447219,
+          "sizeFormatted": "6.15 MB"
+        },
+        "urd": {
+          "file": "urd-nasai.json",
+          "language": "Urdu",
+          "hadithCount": 5765,
+          "sizeBytes": 3967908,
+          "sizeFormatted": "3.78 MB"
+        },
+        "eng": {
+          "file": "eng-nasai.json",
+          "language": "English",
+          "hadithCount": 5765,
+          "sizeBytes": 3328851,
+          "sizeFormatted": "3.17 MB"
+        },
+        "ben": {
+          "file": "ben-nasai.json",
+          "language": "Bengali",
+          "hadithCount": 5765,
+          "sizeBytes": 7340594,
+          "sizeFormatted": "7.00 MB"
+        },
+        "tur": {
+          "file": "tur-nasai.json",
+          "language": "Turkish",
+          "hadithCount": 5765,
+          "sizeBytes": 1574676,
+          "sizeFormatted": "1.50 MB"
+        }
+      }
+    },
+    "ibnmajah": {
+      "name": "Sunan Ibn Majah",
+      "author": "Imam Ibn Majah",
+      "files": {
+        "ara": {
+          "file": "ara-ibnmajah.json",
+          "language": "Arabic",
+          "hadithCount": 4343,
+          "sizeBytes": 4971752,
+          "sizeFormatted": "4.74 MB"
+        },
+        "urd": {
+          "file": "urd-ibnmajah.json",
+          "language": "Urdu",
+          "hadithCount": 4343,
+          "sizeBytes": 3731109,
+          "sizeFormatted": "3.56 MB"
+        },
+        "eng": {
+          "file": "eng-ibnmajah.json",
+          "language": "English",
+          "hadithCount": 4343,
+          "sizeBytes": 2629738,
+          "sizeFormatted": "2.51 MB"
+        },
+        "ben": {
+          "file": "ben-ibnmajah.json",
+          "language": "Bengali",
+          "hadithCount": 4343,
+          "sizeBytes": 5126600,
+          "sizeFormatted": "4.89 MB"
+        },
+        "tur": {
+          "file": "tur-ibnmajah.json",
+          "language": "Turkish",
+          "hadithCount": 4343,
+          "sizeBytes": 4553069,
+          "sizeFormatted": "4.34 MB"
+        }
+      }
+    }
+  },
+  "totalBytes": 183265445,
+  "totalSizeFormatted": "174.78 MB"
+}
