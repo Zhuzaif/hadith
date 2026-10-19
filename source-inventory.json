@@ -1,0 +1,292 @@
+{
+  "excludedDirectories": [
+    ".git (repository internals, not book data)"
+  ],
+  "files": [
+    {
+      "sourceFile": "_headers",
+      "bytes": 128,
+      "sha256": "9f25046472156a5357afbbd0ff1b5a77efe08b42cbd09c67692bd43dcf7ec9c4",
+      "kind": "copied-support",
+      "outputFile": "_headers"
+    },
+    {
+      "sourceFile": "abudawud/ara-abudawud.json",
+      "bytes": 6623115,
+      "sha256": "30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f",
+      "kind": "split-edition",
+      "outputIndex": "abudawud/ara-abudawud/index.json"
+    },
+    {
+      "sourceFile": "abudawud/ben-abudawud.json",
+      "bytes": 7633503,
+      "sha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d",
+      "kind": "split-edition",
+      "outputIndex": "abudawud/ben-abudawud/index.json"
+    },
+    {
+      "sourceFile": "abudawud/eng-abudawud.json",
+      "bytes": 3589001,
+      "sha256": "81f711c6240f517b3fce6f97ecb019c1831775297e25f1797e5785c11f61c6d8",
+      "kind": "split-edition",
+      "outputIndex": "abudawud/eng-abudawud/index.json"
+    },
+    {
+      "sourceFile": "abudawud/tur-abudawud.json",
+      "bytes": 4223164,
+      "sha256": "bc634f594a5b53edb513e1d242195fc53f391547a3bf8c74f17165c3bd986bfc",
+      "kind": "split-edition",
+      "outputIndex": "abudawud/tur-abudawud/index.json"
+    },
+    {
+      "sourceFile": "abudawud/urd-abudawud.json",
+      "bytes": 5346674,
+      "sha256": "da1923ddaf1a2b81f81cc500abf536ff3b061a754fed528400344221d859da47",
+      "kind": "split-edition",
+      "outputIndex": "abudawud/urd-abudawud/index.json"
+    },
+    {
+      "sourceFile": "ara-abudawud.json",
+      "bytes": 6623115,
+      "sha256": "30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f",
+      "kind": "duplicate-alias",
+      "canonicalSource": "abudawud/ara-abudawud.json",
+      "outputIndex": "abudawud/ara-abudawud/index.json"
+    },
+    {
+      "sourceFile": "ben-abudawud.json",
+      "bytes": 7633503,
+      "sha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d",
+      "kind": "duplicate-alias",
+      "canonicalSource": "abudawud/ben-abudawud.json",
+      "outputIndex": "abudawud/ben-abudawud/index.json"
+    },
+    {
+      "sourceFile": "bukhari/ara-bukhari.json",
+      "bytes": 9409647,
+      "sha256": "f887d8724f75fb6e1d5d29342a173af5346ad9b933173c85e6e3cb570063ea33",
+      "kind": "split-edition",
+      "outputIndex": "bukhari/ara-bukhari/index.json"
+    },
+    {
+      "sourceFile": "bukhari/ben-bukhari.json",
+      "bytes": 14712741,
+      "sha256": "2886f6ec0af0833a7529ff63c608e035e61045b81788c08d2d23755f2df553ef",
+      "kind": "split-edition",
+      "outputIndex": "bukhari/ben-bukhari/index.json"
+    },
+    {
+      "sourceFile": "bukhari/eng-bukhari.json",
+      "bytes": 4821289,
+      "sha256": "60f8dfcf2cb8bcd2c8e281be68d912ee153e0fc4d02ad317d33c532d3814a04f",
+      "kind": "split-edition",
+      "outputIndex": "bukhari/eng-bukhari/index.json"
+    },
+    {
+      "sourceFile": "bukhari/tur-bukhari.json",
+      "bytes": 10167937,
+      "sha256": "67ae849dda0e077169fa1f8bbdb407fcb1be680ab13cd9717b2aac0bb818fe48",
+      "kind": "split-edition",
+      "outputIndex": "bukhari/tur-bukhari/index.json"
+    },
+    {
+      "sourceFile": "bukhari/urd-bukhari.json",
+      "bytes": 9584861,
+      "sha256": "e9edbb3119ce1fc8a7422132c263ee76ddf4de3d448152de5868e2ce72d2e449",
+      "kind": "split-edition",
+      "outputIndex": "bukhari/urd-bukhari/index.json"
+    },
+    {
+      "sourceFile": "eng-abudawud.json",
+      "bytes": 3589001,
+      "sha256": "81f711c6240f517b3fce6f97ecb019c1831775297e25f1797e5785c11f61c6d8",
+      "kind": "duplicate-alias",
+      "canonicalSource": "abudawud/eng-abudawud.json",
+      "outputIndex": "abudawud/eng-abudawud/index.json"
+    },
+    {
+      "sourceFile": "ibnmajah/ara-ibnmajah.json",
+      "bytes": 4971752,
+      "sha256": "495fcccdea5f2d157794d2b1bd1eaa0e0a5ff5aeb6be2d7817de8f25e3b3349c",
+      "kind": "split-edition",
+      "outputIndex": "ibnmajah/ara-ibnmajah/index.json"
+    },
+    {
+      "sourceFile": "ibnmajah/ben-ibnmajah.json",
+      "bytes": 5126600,
+      "sha256": "6f613e145084705f57c11586cf2e8eb399775fdf503e0d1ae017235f873d63ef",
+      "kind": "split-edition",
+      "outputIndex": "ibnmajah/ben-ibnmajah/index.json"
+    },
+    {
+      "sourceFile": "ibnmajah/eng-ibnmajah.json",
+      "bytes": 2629738,
+      "sha256": "c6966c9a02460817fec348945407b8407fcb9f0b0425022ce625792d0c22078b",
+      "kind": "split-edition",
+      "outputIndex": "ibnmajah/eng-ibnmajah/index.json"
+    },
+    {
+      "sourceFile": "ibnmajah/tur-ibnmajah.json",
+      "bytes": 4553069,
+      "sha256": "0662de2f05a6c460e52b908064f495184de022d4168de6ff20d618945228918f",
+      "kind": "split-edition",
+      "outputIndex": "ibnmajah/tur-ibnmajah/index.json"
+    },
+    {
+      "sourceFile": "ibnmajah/urd-ibnmajah.json",
+      "bytes": 3731109,
+      "sha256": "b032e5d7a09a92b8eef44493ad4d81e22b5bcb42b45029f3f9c5df4e3aed9623",
+      "kind": "split-edition",
+      "outputIndex": "ibnmajah/urd-ibnmajah/index.json"
+    },
+    {
+      "sourceFile": "index.html",
+      "bytes": 35,
+      "sha256": "11d99ae3725fc3bed7a94308bbeb9f70611ec704cfd6bd200b3e792e20cbf1b6",
+      "kind": "copied-support",
+      "outputFile": "index.html"
+    },
+    {
+      "sourceFile": "metadata/editions.json",
+      "bytes": 30390,
+      "sha256": "ef6eaefd10c348c500624091846d7bd7968056bea9bb15875a427d2cc2b2b3bf",
+      "kind": "copied-support",
+      "outputFile": "metadata/editions.json"
+    },
+    {
+      "sourceFile": "metadata/summary.json",
+      "bytes": 7245,
+      "sha256": "5b4678efd4d630c762c01c48703639a24d4f38e66047bd614a472728dea2fb89",
+      "kind": "copied-support",
+      "outputFile": "metadata/summary.json"
+    },
+    {
+      "sourceFile": "muslim/ara-muslim.json",
+      "bytes": 8329204,
+      "sha256": "2cb296f3455ff8a3da9f6a0ca3de75da675788b2fb446ad316df297838e48217",
+      "kind": "split-edition",
+      "outputIndex": "muslim/ara-muslim/index.json"
+    },
+    {
+      "sourceFile": "muslim/ben-muslim.json",
+      "bytes": 10971438,
+      "sha256": "f24bf6d942fd96290abe37458214cb30f98b3f5f25109e388d3b04e5028d6ad0",
+      "kind": "split-edition",
+      "outputIndex": "muslim/ben-muslim/index.json"
+    },
+    {
+      "sourceFile": "muslim/eng-muslim.json",
+      "bytes": 3940216,
+      "sha256": "b5a04a66206b2cfaab18e2439ed2efeb824c6e179627e36a883dc060c03d4960",
+      "kind": "split-edition",
+      "outputIndex": "muslim/eng-muslim/index.json"
+    },
+    {
+      "sourceFile": "muslim/tur-muslim.json",
+      "bytes": 6758633,
+      "sha256": "8e86dc8293c9ba8f397b8a51c4a6a2229cbe7683ae51b87ab194e681543fb929",
+      "kind": "split-edition",
+      "outputIndex": "muslim/tur-muslim/index.json"
+    },
+    {
+      "sourceFile": "muslim/urd-muslim.json",
+      "bytes": 7301659,
+      "sha256": "f4df8f12a57e0d14b93829aae8885072f7f04b5ca2703f8fa90b99cd7624bdcf",
+      "kind": "split-edition",
+      "outputIndex": "muslim/urd-muslim/index.json"
+    },
+    {
+      "sourceFile": "nasai/ara-nasai.json",
+      "bytes": 6447219,
+      "sha256": "18294d8da9ec9a735719f26709858ac30657c1122f6a39d179f128bfc59ecb80",
+      "kind": "split-edition",
+      "outputIndex": "nasai/ara-nasai/index.json"
+    },
+    {
+      "sourceFile": "nasai/ben-nasai.json",
+      "bytes": 7340594,
+      "sha256": "97adbefc3f3f9a1286fdc1cb954927da75112858e36bc6b3752a3a39bba222e3",
+      "kind": "split-edition",
+      "outputIndex": "nasai/ben-nasai/index.json"
+    },
+    {
+      "sourceFile": "nasai/eng-nasai.json",
+      "bytes": 3328851,
+      "sha256": "07f020084ecd21e647e4efd5b63e2866ab83143d68b470993eec1556e4fe8502",
+      "kind": "split-edition",
+      "outputIndex": "nasai/eng-nasai/index.json"
+    },
+    {
+      "sourceFile": "nasai/tur-nasai.json",
+      "bytes": 1574676,
+      "sha256": "14601a92c217a0762be5ebfd245b7844e5e3eab15a65e9879d6d41ea16d931ec",
+      "kind": "split-edition",
+      "outputIndex": "nasai/tur-nasai/index.json"
+    },
+    {
+      "sourceFile": "nasai/urd-nasai.json",
+      "bytes": 3967908,
+      "sha256": "29241f9f16f34d174640b21ea84d7180c95011cf129efecd246bb3b73429786f",
+      "kind": "split-edition",
+      "outputIndex": "nasai/urd-nasai/index.json"
+    },
+    {
+      "sourceFile": "README.md",
+      "bytes": 4051,
+      "sha256": "de7664565f4a1c84e8bbfe9825440447c13d2699bcbe8321d283a86836921727",
+      "kind": "copied-support",
+      "outputFile": "README.md"
+    },
+    {
+      "sourceFile": "tirmidhi/ara-tirmidhi.json",
+      "bytes": 6583667,
+      "sha256": "22b7ffbbca9beb5d4f108cc0389a3cd16917876b3ceb32993c46e1554afd871b",
+      "kind": "split-edition",
+      "outputIndex": "tirmidhi/ara-tirmidhi/index.json"
+    },
+    {
+      "sourceFile": "tirmidhi/ben-tirmidhi.json",
+      "bytes": 8199627,
+      "sha256": "4a02895ef4db491c6cc27396007f0bb7779198d27895afa0992ba2931e2f0f19",
+      "kind": "split-edition",
+      "outputIndex": "tirmidhi/ben-tirmidhi/index.json"
+    },
+    {
+      "sourceFile": "tirmidhi/eng-tirmidhi.json",
+      "bytes": 2587658,
+      "sha256": "cf16ae15f7f6f23faab1c348d3962b49ac96e0e25cac7930b3725773bb6887f3",
+      "kind": "split-edition",
+      "outputIndex": "tirmidhi/eng-tirmidhi/index.json"
+    },
+    {
+      "sourceFile": "tirmidhi/tur-tirmidhi.json",
+      "bytes": 3595253,
+      "sha256": "a0cb4e0f1a00db2e1db2907f80f1436bc1777f5978a4532113db5e33c33bd751",
+      "kind": "split-edition",
+      "outputIndex": "tirmidhi/tur-tirmidhi/index.json"
+    },
+    {
+      "sourceFile": "tirmidhi/urd-tirmidhi.json",
+      "bytes": 5214642,
+      "sha256": "ddd6e3a8c53193252391a36ea1a7870eb3ce5356362cf39dc915cfd2508f4f24",
+      "kind": "split-edition",
+      "outputIndex": "tirmidhi/urd-tirmidhi/index.json"
+    },
+    {
+      "sourceFile": "tur-abudawud.json",
+      "bytes": 4223164,
+      "sha256": "bc634f594a5b53edb513e1d242195fc53f391547a3bf8c74f17165c3bd986bfc",
+      "kind": "duplicate-alias",
+      "canonicalSource": "abudawud/tur-abudawud.json",
+      "outputIndex": "abudawud/tur-abudawud/index.json"
+    },
+    {
+      "sourceFile": "urd-abudawud.json",
+      "bytes": 5346674,
+      "sha256": "da1923ddaf1a2b81f81cc500abf536ff3b061a754fed528400344221d859da47",
+      "kind": "duplicate-alias",
+      "canonicalSource": "abudawud/urd-abudawud.json",
+      "outputIndex": "abudawud/urd-abudawud/index.json"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "groupingField": "reference.book",
+  "books": [
+    "abudawud",
+    "bukhari",
+    "ibnmajah",
+    "muslim",
+    "nasai",
+    "tirmidhi"
+  ],
+  "languages": [
+    "ara",
+    "ben",
+    "eng",
+    "tur",
+    "urd"
+  ],
+  "editions": [
+    {
+      "sourceFile": "abudawud/ara-abudawud.json",
+      "folder": "abudawud/ara-abudawud",
+      "index": "abudawud/ara-abudawud/index.json",
+      "sourceSha256": "30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f",
+      "sourceBytes": 6623115,
+      "records": 5274,
+      "topicFiles": 44,
+      "emptyTextRecordsPreserved": 2
+    },
+    {
+      "sourceFile": "abudawud/ben-abudawud.json",
+      "folder": "abudawud/ben-abudawud",
+      "index": "abudawud/ben-abudawud/index.json",
+      "sourceSha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d",
+      "sourceBytes": 7633503,
+      "records": 5274,
+      "topicFiles": 44,
+      "emptyTextRecordsPreserved": 4
+    },
+    {
+      "sourceFile": "abudawud/eng-abudawud.json",
+      "folder": "abudawud/eng-abudawud",
+      "index": "abudawud/eng-abudawud/index.json",
+      "sourceSha256": "81f711c6240f517b3fce6f97ecb019c1831775297e25f1797e5785c11f61c6d8",
+      "sourceBytes": 3589001,
+      "records": 5274,
+      "topicFiles": 44,
+      "emptyTextRecordsPreserved": 2
+    },
+    {
+      "sourceFile": "abudawud/tur-abudawud.json",
+      "folder": "abudawud/tur-abudawud",
+      "index": "abudawud/tur-abudawud/index.json",
+      "sourceSha256": "bc634f594a5b53edb513e1d242195fc53f391547a3bf8c74f17165c3bd986bfc",
+      "sourceBytes": 4223164,
+      "records": 5274,
+      "topicFiles": 44,
+      "emptyTextRecordsPreserved": 8
+    },
+    {
+      "sourceFile": "abudawud/urd-abudawud.json",
+      "folder": "abudawud/urd-abudawud",
+      "index": "abudawud/urd-abudawud/index.json",
+      "sourceSha256": "da1923ddaf1a2b81f81cc500abf536ff3b061a754fed528400344221d859da47",
+      "sourceBytes": 5346674,
+      "records": 5274,
+      "topicFiles": 44,
+      "emptyTextRecordsPreserved": 1
+    },
+    {
+      "sourceFile": "bukhari/ara-bukhari.json",
+      "folder": "bukhari/ara-bukhari",
+      "index": "bukhari/ara-bukhari/index.json",
+      "sourceSha256": "f887d8724f75fb6e1d5d29342a173af5346ad9b933173c85e6e3cb570063ea33",
+      "sourceBytes": 9409647,
+      "records": 7589,
+      "topicFiles": 98,
+      "emptyTextRecordsPreserved": 9
+    },
+    {
+      "sourceFile": "bukhari/ben-bukhari.json",
+      "folder": "bukhari/ben-bukhari",
+      "index": "bukhari/ben-bukhari/index.json",
+      "sourceSha256": "2886f6ec0af0833a7529ff63c608e035e61045b81788c08d2d23755f2df553ef",
+      "sourceBytes": 14712741,
+      "records": 7589,
+      "topicFiles": 98,
+      "emptyTextRecordsPreserved": 60
+    },
+    {
+      "sourceFile": "bukhari/eng-bukhari.json",
+      "folder": "bukhari/eng-bukhari",
+      "index": "bukhari/eng-bukhari/index.json",
+      "sourceSha256": "60f8dfcf2cb8bcd2c8e281be68d912ee153e0fc4d02ad317d33c532d3814a04f",
+      "sourceBytes": 4821289,
+      "records": 7589,
+      "topicFiles": 98,
+      "emptyTextRecordsPreserved": 9
+    },
+    {
+      "sourceFile": "bukhari/tur-bukhari.json",
+      "folder": "bukhari/tur-bukhari",
+      "index": "bukhari/tur-bukhari/index.json",
+      "sourceSha256": "67ae849dda0e077169fa1f8bbdb407fcb1be680ab13cd9717b2aac0bb818fe48",
+      "sourceBytes": 10167937,
+      "records": 7589,
+      "topicFiles": 98,
+      "emptyTextRecordsPreserved": 68
+    },
+    {
+      "sourceFile": "bukhari/urd-bukhari.json",
+      "folder": "bukhari/urd-bukhari",
+      "index": "bukhari/urd-bukhari/index.json",
+      "sourceSha256": "e9edbb3119ce1fc8a7422132c263ee76ddf4de3d448152de5868e2ce72d2e449",
+      "sourceBytes": 9584861,
+      "records": 7589,
+      "topicFiles": 98,
+      "emptyTextRecordsPreserved": 570
+    },
+    {
+      "sourceFile": "ibnmajah/ara-ibnmajah.json",
+      "folder": "ibnmajah/ara-ibnmajah",
+      "index": "ibnmajah/ara-ibnmajah/index.json",
+      "sourceSha256": "495fcccdea5f2d157794d2b1bd1eaa0e0a5ff5aeb6be2d7817de8f25e3b3349c",
+      "sourceBytes": 4971752,
+      "records": 4343,
+      "topicFiles": 38,
+      "emptyTextRecordsPreserved": 5
+    },
+    {
+      "sourceFile": "ibnmajah/ben-ibnmajah.json",
+      "folder": "ibnmajah/ben-ibnmajah",
+      "index": "ibnmajah/ben-ibnmajah/index.json",
+      "sourceSha256": "6f613e145084705f57c11586cf2e8eb399775fdf503e0d1ae017235f873d63ef",
+      "sourceBytes": 5126600,
+      "records": 4343,
+      "topicFiles": 38,
+      "emptyTextRecordsPreserved": 7
+    },
+    {
+      "sourceFile": "ibnmajah/eng-ibnmajah.json",
+      "folder": "ibnmajah/eng-ibnmajah",
+      "index": "ibnmajah/eng-ibnmajah/index.json",
+      "sourceSha256": "c6966c9a02460817fec348945407b8407fcb9f0b0425022ce625792d0c22078b",
+      "sourceBytes": 2629738,
+      "records": 4343,
+      "topicFiles": 38,
+      "emptyTextRecordsPreserved": 3
+    },
+    {
+      "sourceFile": "ibnmajah/tur-ibnmajah.json",
+      "folder": "ibnmajah/tur-ibnmajah",
+      "index": "ibnmajah/tur-ibnmajah/index.json",
+      "sourceSha256": "0662de2f05a6c460e52b908064f495184de022d4168de6ff20d618945228918f",
+      "sourceBytes": 4553069,
+      "records": 4343,
+      "topicFiles": 38,
+      "emptyTextRecordsPreserved": 24
+    },
+    {
+      "sourceFile": "ibnmajah/urd-ibnmajah.json",
+      "folder": "ibnmajah/urd-ibnmajah",
+      "index": "ibnmajah/urd-ibnmajah/index.json",
+      "sourceSha256": "b032e5d7a09a92b8eef44493ad4d81e22b5bcb42b45029f3f9c5df4e3aed9623",
+      "sourceBytes": 3731109,
+      "records": 4343,
+      "topicFiles": 38,
+      "emptyTextRecordsPreserved": 14
+    },
+    {
+      "sourceFile": "muslim/ara-muslim.json",
+      "folder": "muslim/ara-muslim",
+      "index": "muslim/ara-muslim/index.json",
+      "sourceSha256": "2cb296f3455ff8a3da9f6a0ca3de75da675788b2fb446ad316df297838e48217",
+      "sourceBytes": 8329204,
+      "records": 7563,
+      "topicFiles": 57,
+      "emptyTextRecordsPreserved": 203
+    },
+    {
+      "sourceFile": "muslim/ben-muslim.json",
+      "folder": "muslim/ben-muslim",
+      "index": "muslim/ben-muslim/index.json",
+      "sourceSha256": "f24bf6d942fd96290abe37458214cb30f98b3f5f25109e388d3b04e5028d6ad0",
+      "sourceBytes": 10971438,
+      "records": 7563,
+      "topicFiles": 57,
+      "emptyTextRecordsPreserved": 203
+    },
+    {
+      "sourceFile": "muslim/eng-muslim.json",
+      "folder": "muslim/eng-muslim",
+      "index": "muslim/eng-muslim/index.json",
+      "sourceSha256": "b5a04a66206b2cfaab18e2439ed2efeb824c6e179627e36a883dc060c03d4960",
+      "sourceBytes": 3940216,
+      "records": 7563,
+      "topicFiles": 57,
+      "emptyTextRecordsPreserved": 203
+    },
+    {
+      "sourceFile": "muslim/tur-muslim.json",
+      "folder": "muslim/tur-muslim",
+      "index": "muslim/tur-muslim/index.json",
+      "sourceSha256": "8e86dc8293c9ba8f397b8a51c4a6a2229cbe7683ae51b87ab194e681543fb929",
+      "sourceBytes": 6758633,
+      "records": 7563,
+      "topicFiles": 57,
+      "emptyTextRecordsPreserved": 183
+    },
+    {
+      "sourceFile": "muslim/urd-muslim.json",
+      "folder": "muslim/urd-muslim",
+      "index": "muslim/urd-muslim/index.json",
+      "sourceSha256": "f4df8f12a57e0d14b93829aae8885072f7f04b5ca2703f8fa90b99cd7624bdcf",
+      "sourceBytes": 7301659,
+      "records": 7564,
+      "topicFiles": 57,
+      "emptyTextRecordsPreserved": 105
+    },
+    {
+      "sourceFile": "nasai/ara-nasai.json",
+      "folder": "nasai/ara-nasai",
+      "index": "nasai/ara-nasai/index.json",
+      "sourceSha256": "18294d8da9ec9a735719f26709858ac30657c1122f6a39d179f128bfc59ecb80",
+      "sourceBytes": 6447219,
+      "records": 5765,
+      "topicFiles": 52,
+      "emptyTextRecordsPreserved": 86
+    },
+    {
+      "sourceFile": "nasai/ben-nasai.json",
+      "folder": "nasai/ben-nasai",
+      "index": "nasai/ben-nasai/index.json",
+      "sourceSha256": "97adbefc3f3f9a1286fdc1cb954927da75112858e36bc6b3752a3a39bba222e3",
+      "sourceBytes": 7340594,
+      "records": 5765,
+      "topicFiles": 52,
+      "emptyTextRecordsPreserved": 109
+    },
+    {
+      "sourceFile": "nasai/eng-nasai.json",
+      "folder": "nasai/eng-nasai",
+      "index": "nasai/eng-nasai/index.json",
+      "sourceSha256": "07f020084ecd21e647e4efd5b63e2866ab83143d68b470993eec1556e4fe8502",
+      "sourceBytes": 3328851,
+      "records": 5765,
+      "topicFiles": 52,
+      "emptyTextRecordsPreserved": 86
+    },
+    {
+      "sourceFile": "nasai/tur-nasai.json",
+      "folder": "nasai/tur-nasai",
+      "index": "nasai/tur-nasai/index.json",
+      "sourceSha256": "14601a92c217a0762be5ebfd245b7844e5e3eab15a65e9879d6d41ea16d931ec",
+      "sourceBytes": 1574676,
+      "records": 5765,
+      "topicFiles": 52,
+      "emptyTextRecordsPreserved": 5136
+    },
+    {
+      "sourceFile": "nasai/urd-nasai.json",
+      "folder": "nasai/urd-nasai",
+      "index": "nasai/urd-nasai/index.json",
+      "sourceSha256": "29241f9f16f34d174640b21ea84d7180c95011cf129efecd246bb3b73429786f",
+      "sourceBytes": 3967908,
+      "records": 5765,
+      "topicFiles": 52,
+      "emptyTextRecordsPreserved": 1891
+    },
+    {
+      "sourceFile": "tirmidhi/ara-tirmidhi.json",
+      "folder": "tirmidhi/ara-tirmidhi",
+      "index": "tirmidhi/ara-tirmidhi/index.json",
+      "sourceSha256": "22b7ffbbca9beb5d4f108cc0389a3cd16917876b3ceb32993c46e1554afd871b",
+      "sourceBytes": 6583667,
+      "records": 3998,
+      "topicFiles": 50,
+      "emptyTextRecordsPreserved": 74
+    },
+    {
+      "sourceFile": "tirmidhi/ben-tirmidhi.json",
+      "folder": "tirmidhi/ben-tirmidhi",
+      "index": "tirmidhi/ben-tirmidhi/index.json",
+      "sourceSha256": "4a02895ef4db491c6cc27396007f0bb7779198d27895afa0992ba2931e2f0f19",
+      "sourceBytes": 8199627,
+      "records": 3998,
+      "topicFiles": 50,
+      "emptyTextRecordsPreserved": 103
+    },
+    {
+      "sourceFile": "tirmidhi/eng-tirmidhi.json",
+      "folder": "tirmidhi/eng-tirmidhi",
+      "index": "tirmidhi/eng-tirmidhi/index.json",
+      "sourceSha256": "cf16ae15f7f6f23faab1c348d3962b49ac96e0e25cac7930b3725773bb6887f3",
+      "sourceBytes": 2587658,
+      "records": 3998,
+      "topicFiles": 50,
+      "emptyTextRecordsPreserved": 72
+    },
+    {
+      "sourceFile": "tirmidhi/tur-tirmidhi.json",
+      "folder": "tirmidhi/tur-tirmidhi",
+      "index": "tirmidhi/tur-tirmidhi/index.json",
+      "sourceSha256": "a0cb4e0f1a00db2e1db2907f80f1436bc1777f5978a4532113db5e33c33bd751",
+      "sourceBytes": 3595253,
+      "records": 3998,
+      "topicFiles": 50,
+      "emptyTextRecordsPreserved": 229
+    },
+    {
+      "sourceFile": "tirmidhi/urd-tirmidhi.json",
+      "folder": "tirmidhi/urd-tirmidhi",
+      "index": "tirmidhi/urd-tirmidhi/index.json",
+      "sourceSha256": "ddd6e3a8c53193252391a36ea1a7870eb3ce5356362cf39dc915cfd2508f4f24",
+      "sourceBytes": 5214642,
+      "records": 3998,
+      "topicFiles": 50,
+      "emptyTextRecordsPreserved": 67
+    }
+  ],
+  "aliases": [
+    {
+      "sourceFile": "ara-abudawud.json",
+      "canonicalSource": "abudawud/ara-abudawud.json",
+      "index": "abudawud/ara-abudawud/index.json",
+      "sha256": "30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f"
+    },
+    {
+      "sourceFile": "ben-abudawud.json",
+      "canonicalSource": "abudawud/ben-abudawud.json",
+      "index": "abudawud/ben-abudawud/index.json",
+      "sha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d"
+    },
+    {
+      "sourceFile": "eng-abudawud.json",
+      "canonicalSource": "abudawud/eng-abudawud.json",
+      "index": "abudawud/eng-abudawud/index.json",
+      "sha256": "81f711c6240f517b3fce6f97ecb019c1831775297e25f1797e5785c11f61c6d8"
+    },
+    {
+      "sourceFile": "tur-abudawud.json",
+      "canonicalSource": "abudawud/tur-abudawud.json",
+      "index": "abudawud/tur-abudawud/index.json",
+      "sha256": "bc634f594a5b53edb513e1d242195fc53f391547a3bf8c74f17165c3bd986bfc"
+    },
+    {
+      "sourceFile": "urd-abudawud.json",
+      "canonicalSource": "abudawud/urd-abudawud.json",
+      "index": "abudawud/urd-abudawud/index.json",
+      "sha256": "da1923ddaf1a2b81f81cc500abf536ff3b061a754fed528400344221d859da47"
+    }
+  ]
+}
