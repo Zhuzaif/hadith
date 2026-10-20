@@ -1,0 +1,17 @@
+{
+  "sourceRecords": 34172,
+  "books": 6,
+  "counts": {
+    "arabic": 123,
+    "urdu": 2278,
+    "english": 171
+  },
+  "checkedPages": 65,
+  "additionalToCurrentRepairs": {
+    "arabic": 0,
+    "urdu": 48,
+    "english": 47
+  },
+  "allOriginalFieldsPreserved": true,
+  "allExportedTextExactSourceCopies": true
+}

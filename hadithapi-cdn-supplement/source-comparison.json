@@ -1,0 +1,44 @@
+[
+  {
+    "book": "bukhari",
+    "retrieved": "2026-10-20T12:36:54.918Z",
+    "freshRecords": 7276,
+    "previousRecords": 7276,
+    "changedRecords": 0
+  },
+  {
+    "book": "muslim",
+    "retrieved": "2026-10-20T12:38:02.752Z",
+    "freshRecords": 7564,
+    "previousRecords": 7564,
+    "changedRecords": 0
+  },
+  {
+    "book": "abudawud",
+    "retrieved": "2026-10-20T12:38:50.716Z",
+    "freshRecords": 5274,
+    "previousRecords": 5274,
+    "changedRecords": 0
+  },
+  {
+    "book": "tirmidhi",
+    "retrieved": "2026-10-20T12:39:26.967Z",
+    "freshRecords": 3956,
+    "previousRecords": 3956,
+    "changedRecords": 0
+  },
+  {
+    "book": "nasai",
+    "retrieved": "2026-10-20T12:40:18.868Z",
+    "freshRecords": 5761,
+    "previousRecords": 5761,
+    "changedRecords": 0
+  },
+  {
+    "book": "ibnmajah",
+    "retrieved": "2026-10-20T12:40:58.011Z",
+    "freshRecords": 4341,
+    "previousRecords": 4341,
+    "changedRecords": 0
+  }
+]

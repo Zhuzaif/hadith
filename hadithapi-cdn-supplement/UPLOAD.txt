@@ -1,0 +1,10 @@
+Extract the ZIP and upload its contents as an additional CDN folder. Keep existing topic files unchanged.
+Use manifest.json and pages/ for app delivery: each response contains at most 50 supplementary entries.
+hadithapi-missing-data.json is a combined backup/review file, not a whole-book app download.
+This file contains only verified blank-field supplements copied exactly from HadithAPI, not full books.
+Arabic, Urdu and English only: the legacy API does not provide Bengali or Turkish fields.
+Numbers in books[book].repairs are CURRENT corpus IDs. sourceNumber is the OLD API reference; do not join on that number.
+Original nonempty wording must always win. Keep the source attribution and SHA-256 metadata.
+Uploading does not change the app automatically. Supply the final public URL of manifest.json so the app can be connected to it.
+Counts: {"arabic":123,"urdu":2278,"english":171}. Additional to existing local repairs: {"arabic":0,"urdu":48,"english":47}.
+Some missing fields have no verified counterpart in the old API. They are not filled or removed by this export.

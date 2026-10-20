@@ -1,0 +1,282 @@
+{
+  "files": {
+    "hadithapi-missing-data.json": {
+      "bytes": 2690116,
+      "sha256": "a22dca1df5da1097829dce0fce9ea71b0630d94b401ec1defae2fcdc86606565"
+    },
+    "pages/bukhari/urdu/1.json": {
+      "bytes": 73030,
+      "sha256": "45d55d3b0bfae5527e99568b730bbd796c2cf768992f95bf38216b0141e0ee25"
+    },
+    "pages/bukhari/urdu/2.json": {
+      "bytes": 98443,
+      "sha256": "08879a05447a9c8fc25be5de5ce8850038a2e1faab6ac49e09c5b70ff3581f77"
+    },
+    "pages/bukhari/urdu/3.json": {
+      "bytes": 58976,
+      "sha256": "e85e8e9ed2031a032b43317b4c741c6896815794a2fcae6728b41f77fce2476a"
+    },
+    "pages/bukhari/urdu/4.json": {
+      "bytes": 100337,
+      "sha256": "e1a16a863c176a1b561845fb09a34e4134ba9799110b0eeb98fe477556b94046"
+    },
+    "pages/bukhari/urdu/5.json": {
+      "bytes": 118929,
+      "sha256": "6ecbe4efb5c572a1cf05005004f6b811499eb0b11d13046b1db7770e206b97d7"
+    },
+    "pages/bukhari/urdu/6.json": {
+      "bytes": 104592,
+      "sha256": "ede8a2168a471f7c549f7fe00ece9ebaebd18e20cdeab7991f1d9672c227a3f8"
+    },
+    "pages/bukhari/urdu/7.json": {
+      "bytes": 99831,
+      "sha256": "7122e54cf194c66e96082db250637d93689539afdc68986d8ba4c70b1cf1afa5"
+    },
+    "pages/bukhari/urdu/8.json": {
+      "bytes": 68739,
+      "sha256": "552abc306620ace05efe0720156ca1dfa21815a1b4cae27b0ebdb4d172c0b670"
+    },
+    "pages/bukhari/urdu/9.json": {
+      "bytes": 96117,
+      "sha256": "83cf3f0b264d99ef23f5dc63ecc427c7c2850288558337114980e1fb21192364"
+    },
+    "pages/bukhari/urdu/10.json": {
+      "bytes": 71979,
+      "sha256": "4deb02bced47a630bc35cf9e53103bae8156fd539e7677219f3fb6bdb1b56e4a"
+    },
+    "pages/bukhari/urdu/11.json": {
+      "bytes": 9656,
+      "sha256": "2f967b8efb95a29e75861184c5d6c1c6d99be8044cb7878d4f4ad66ae3adfe71"
+    },
+    "pages/bukhari/english/1.json": {
+      "bytes": 6140,
+      "sha256": "44a033804a1a76ce4200d1b75fecb6e041d39bf907330376c9c656642e3a8a5d"
+    },
+    "pages/muslim/arabic/1.json": {
+      "bytes": 75225,
+      "sha256": "d8b5059660f569b7941340fb26de42c54d9e99fc24bfba166971a02d77817e34"
+    },
+    "pages/muslim/arabic/2.json": {
+      "bytes": 14014,
+      "sha256": "f797f2c688798b9f6c95a90cd0041c3949f7af5b1722bb39870c34c116426067"
+    },
+    "pages/muslim/urdu/1.json": {
+      "bytes": 45676,
+      "sha256": "507aaea50a390df4e32bd5d7188f0e255af2c7c5d0dcbcdb36e106015a640a28"
+    },
+    "pages/muslim/english/1.json": {
+      "bytes": 35487,
+      "sha256": "5b9cb03a6ab6cf36f8f8bf18bbadc7d1eaaff11217af7ed7c54671a6584161e4"
+    },
+    "pages/muslim/english/2.json": {
+      "bytes": 7674,
+      "sha256": "259f08c774b7c3831cb2905e58c7313cc3cf7e5cacc730dbd3bbfc2fe559debc"
+    },
+    "pages/abudawud/arabic/1.json": {
+      "bytes": 3083,
+      "sha256": "7cb48b9bca35bb2e597e0e9fc91541e862dec566817bb9c34688993bafab42de"
+    },
+    "pages/abudawud/urdu/1.json": {
+      "bytes": 879,
+      "sha256": "225575f4e360f46f904e27807aa7cd6bdc36fcb1483190f4c659263d0d04c021"
+    },
+    "pages/abudawud/english/1.json": {
+      "bytes": 1342,
+      "sha256": "a4b154ddb190c900d55edd585e5e680eee32eb69b84d9da04aea3d19c9ca16df"
+    },
+    "pages/tirmidhi/arabic/1.json": {
+      "bytes": 103644,
+      "sha256": "87f03df665fe5dfc28279a7c801b0e54547de43838efee4f5cf4fff88ed57909"
+    },
+    "pages/tirmidhi/arabic/2.json": {
+      "bytes": 17542,
+      "sha256": "cd51194a36a2c7a8f7ce3b7570025dfb254267b033ff54a62cc0023c946a6d06"
+    },
+    "pages/tirmidhi/urdu/1.json": {
+      "bytes": 29548,
+      "sha256": "2a815207408b44da2648b87a128d0a8acdb2d9c3a7bd84e55fffbad977fa232a"
+    },
+    "pages/tirmidhi/english/1.json": {
+      "bytes": 34582,
+      "sha256": "25b8519f6607532684d5e6b343f2753c48029af9f51b4008db9f8088cb4d0323"
+    },
+    "pages/tirmidhi/english/2.json": {
+      "bytes": 8169,
+      "sha256": "460e6fc16f2470c9dcde2bba6be73d8479a9a9f0997d4f249e240070463faee0"
+    },
+    "pages/nasai/arabic/1.json": {
+      "bytes": 2026,
+      "sha256": "6c14ca818ddca4f377f131677085cfa85cf85cb19ee2670d94aba1dbd6a5daeb"
+    },
+    "pages/nasai/urdu/1.json": {
+      "bytes": 51896,
+      "sha256": "136037d03c1170e7de95d2dc563df71533f34b2a98689f659eef8f1c1cb73ee1"
+    },
+    "pages/nasai/urdu/2.json": {
+      "bytes": 47151,
+      "sha256": "6817be4d98cd660aaec7b7cc02e98ef15acb19198a1cb1778d701a74ff41dc25"
+    },
+    "pages/nasai/urdu/3.json": {
+      "bytes": 43860,
+      "sha256": "35f9db9188db7a05c331aab6cdd9932e61a7e6e24dc4429413b7e8c535db761a"
+    },
+    "pages/nasai/urdu/4.json": {
+      "bytes": 38288,
+      "sha256": "8dc0806b29bec061613fbecab19fc752a29fcee6396016cb497e066697d363f6"
+    },
+    "pages/nasai/urdu/5.json": {
+      "bytes": 45019,
+      "sha256": "59dfab45c446732a6fce43af0de446f00e503ba7ad8aafbccf33e8de8c6a79bb"
+    },
+    "pages/nasai/urdu/6.json": {
+      "bytes": 37964,
+      "sha256": "21f2af84392356d18700c9101f2db905b167f306bf498530fcd8ef76d0b037a4"
+    },
+    "pages/nasai/urdu/7.json": {
+      "bytes": 39972,
+      "sha256": "594f94535df35ad06b72b24637577fb13baf98cd4f7dc21da22a245031fb8fab"
+    },
+    "pages/nasai/urdu/8.json": {
+      "bytes": 40429,
+      "sha256": "fe975ba641ebfc593a9bce556abe48d053629db3ddd7645b217ba9dc914f2269"
+    },
+    "pages/nasai/urdu/9.json": {
+      "bytes": 37188,
+      "sha256": "2372d9e780e11ae34a94cc5df48ee97e9d482cdc1dea68b0350fdf11d8c70025"
+    },
+    "pages/nasai/urdu/10.json": {
+      "bytes": 36580,
+      "sha256": "ae070b3f01ef5df1bc6750d04a303bd810adaa8e2509352df02cf086bf48644f"
+    },
+    "pages/nasai/urdu/11.json": {
+      "bytes": 32498,
+      "sha256": "06783213b217fb8dc6a5ac9c7af918d5660abe75d52b94860ea96a0c2030735c"
+    },
+    "pages/nasai/urdu/12.json": {
+      "bytes": 37493,
+      "sha256": "d460f6d0d7ae7592a26bc89bc465735eddcc39bdfe02cff6135d8f43ade7cb56"
+    },
+    "pages/nasai/urdu/13.json": {
+      "bytes": 31966,
+      "sha256": "8c18d0eb7b53c7f8c231ab6c2717fd8e2c8c79854f3478f24d8e132d2f8e4538"
+    },
+    "pages/nasai/urdu/14.json": {
+      "bytes": 44668,
+      "sha256": "389f218870759e01a4a7a9d4e09e018358ccca9b1309506af4807cb6657923f8"
+    },
+    "pages/nasai/urdu/15.json": {
+      "bytes": 54742,
+      "sha256": "97e07a6217d0d52b229e296be38201e496edaba8ec24488af8e2e90bf2ca76c0"
+    },
+    "pages/nasai/urdu/16.json": {
+      "bytes": 42126,
+      "sha256": "3f86d9062cc3f04dddbb84bb358906c79035541383cec8cbaaf8b2a6613bbc12"
+    },
+    "pages/nasai/urdu/17.json": {
+      "bytes": 39756,
+      "sha256": "e81ec1b01141713b5d6d368f45ec23544374aa967c7bbbcd8763b45d8dc242fa"
+    },
+    "pages/nasai/urdu/18.json": {
+      "bytes": 44067,
+      "sha256": "8b1081be9c7ceed07e23ea231b721da58fdcf51e1420235e14dd36e700f0879c"
+    },
+    "pages/nasai/urdu/19.json": {
+      "bytes": 27693,
+      "sha256": "62435c7919c2e3c1e9b49a12504466da25e6b312780a749124913e563a5b10b7"
+    },
+    "pages/nasai/urdu/20.json": {
+      "bytes": 38822,
+      "sha256": "22e073c1326204e802f55787d7acbe02877fe8d2d33a46751b1a5cc658c499ea"
+    },
+    "pages/nasai/urdu/21.json": {
+      "bytes": 35431,
+      "sha256": "0c58bd95365de5f60457e24815476382b1d525d60ce221ac29fe16d9e09a9ba4"
+    },
+    "pages/nasai/urdu/22.json": {
+      "bytes": 31742,
+      "sha256": "a1e4995109d6e2154f8aff71d5da0a4c83b627600bc8b8a4fc5baac5bfa94d19"
+    },
+    "pages/nasai/urdu/23.json": {
+      "bytes": 34933,
+      "sha256": "796b845c876ebd7d92c8d79fca1fdf788608cfb3e61c0c8920efb9e01c66e4b1"
+    },
+    "pages/nasai/urdu/24.json": {
+      "bytes": 32259,
+      "sha256": "c015a2fcb7f948cc079cf4792214391734132f9745b4f94d41dba82c042f876a"
+    },
+    "pages/nasai/urdu/25.json": {
+      "bytes": 27328,
+      "sha256": "a1ad32ed6673ca479418d105257ee65feb0a98d39f63a13d28802199fd2b062c"
+    },
+    "pages/nasai/urdu/26.json": {
+      "bytes": 37065,
+      "sha256": "052c4c3eaa320b5ef33c449a4e4397c74ffe8a2b95ebd2fcf06572c5c5bea5cf"
+    },
+    "pages/nasai/urdu/27.json": {
+      "bytes": 35815,
+      "sha256": "3b1dc0389587c8ee847bff8eebded274ff9fdfd32be5f4e673c34f050d133823"
+    },
+    "pages/nasai/urdu/28.json": {
+      "bytes": 65424,
+      "sha256": "d600305f1c4ec003c73be08e72e3de1b8b9820eb808b175e1f8a64d2090b5a3d"
+    },
+    "pages/nasai/urdu/29.json": {
+      "bytes": 41120,
+      "sha256": "18f951985d6fed35a8b69fad2aade1e8697616be80c746670552b45cf6faf4f4"
+    },
+    "pages/nasai/urdu/30.json": {
+      "bytes": 42696,
+      "sha256": "1c10d9d1fe43fade1faa56f8faea5fdd093684aedd7d6bb6aca9f7baa1fb04fb"
+    },
+    "pages/nasai/urdu/31.json": {
+      "bytes": 30439,
+      "sha256": "a68066db84b27fe4975f82a540f6467ed21be4941e59ffd827af7c66dbe16745"
+    },
+    "pages/nasai/urdu/32.json": {
+      "bytes": 29756,
+      "sha256": "e08870c7a2d56319bc1caa01d987c0e2da5cf424a26d5c6d3e305dc1d808d56b"
+    },
+    "pages/nasai/urdu/33.json": {
+      "bytes": 38892,
+      "sha256": "c8f047f26c5efc072b575296abe94c5f1452242986fd9695127897f75db5b098"
+    },
+    "pages/nasai/urdu/34.json": {
+      "bytes": 37200,
+      "sha256": "0d12fa7e3d643d4605425ff3181271da52ea5b12150186f66df51d533f2c1641"
+    },
+    "pages/nasai/urdu/35.json": {
+      "bytes": 10304,
+      "sha256": "2a8048cb979f9a47646f3d91819d86be8a946ed0e2e21c5cf41467b17b26ddf1"
+    },
+    "pages/nasai/english/1.json": {
+      "bytes": 38870,
+      "sha256": "7660ed9e7b7abb28c1694a9337d7c0defa6d54b787d16de065baf8aebcec8079"
+    },
+    "pages/ibnmajah/arabic/1.json": {
+      "bytes": 1208,
+      "sha256": "259e74f6e7e0a04770c6ef1a67b9e4a106314dae6e925a7b649774e018c1bf5e"
+    },
+    "pages/ibnmajah/urdu/1.json": {
+      "bytes": 3825,
+      "sha256": "d8efafb16cba6a64048050b4cdc02310dbfd5b5662874f2e0b8cff8c76d70d94"
+    },
+    "pages/ibnmajah/english/1.json": {
+      "bytes": 573,
+      "sha256": "996dba32468170bc009c6786c7d0293a6759199e7633bbe0db67067e05b11e48"
+    },
+    "manifest.json": {
+      "bytes": 35221,
+      "sha256": "eda18352338350a3d105eb00c1b7df3e5d671dc1381013ff6405762db7f92489"
+    }
+  },
+  "counts": {
+    "arabic": 123,
+    "urdu": 2278,
+    "english": 171
+  },
+  "additionalToCurrentRepairs": {
+    "arabic": 0,
+    "urdu": 48,
+    "english": 47
+  }
+}
